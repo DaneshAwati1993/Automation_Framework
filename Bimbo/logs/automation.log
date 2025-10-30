@@ -1,0 +1,1517 @@
+2025-10-30 10:53:22.882 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 10:53:22.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 10:53:22.896 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.896 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-10-30 10:53:22.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2025-10-30 10:53:22.926 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 10:53:22.929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.940 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 10:53:22.948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-30 10:53:22.954 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.958 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 10:53:22.958 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.961 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 10:53:22.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 10:53:22.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 10:53:22.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-351095529\testng-customsuite.xml
+
+2025-10-30 10:53:28.325 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2025-10-30 10:53:31.608 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5e4fa1da: 254 ms
+2025-10-30 10:53:31.612 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@769a58e5: 2 ms
+2025-10-30 10:53:31.628 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4ba89729: 16 ms
+2025-10-30 10:53:31.653 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@70242f38: 25 ms
+2025-10-30 10:53:31.669 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1948ea69: 16 ms
+2025-10-30 10:53:31.669 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@47e4d9d0: 0 ms
+2025-10-30 11:01:43.528 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.536 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 11:01:43.538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-10-30 11:01:43.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-10-30 11:01:43.560 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.562 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.566 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.568 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.568 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.569 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.576 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.588 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 11:01:43.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.596 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 11:01:43.597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:01:43.598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:01:43.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-2078722070\testng-customsuite.xml
+
+2025-10-30 11:01:48.232 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (5c67c580a375b6c0b3d38ac477b182cb)
+2025-10-30 11:01:48.254 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-10-30 11:01:50.334 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@588cd519: 300 ms
+2025-10-30 11:01:50.338 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55f8669d: 4 ms
+2025-10-30 11:01:50.365 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@178270b2: 25 ms
+2025-10-30 11:01:50.386 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a22ad2b: 21 ms
+2025-10-30 11:01:50.402 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47e4d9d0: 16 ms
+2025-10-30 11:01:50.403 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@49798e84: 0 ms
+2025-10-30 11:02:39.091 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.104 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 11:02:39.107 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.109 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 11:02:39.123 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2025-10-30 11:02:39.140 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-10-30 11:02:39.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 11:02:39.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.149 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.154 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.159 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.174 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-30 11:02:39.177 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 11:02:39.180 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 11:02:39.181 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 11:02:39.186 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 11:02:39.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:02:39.189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:02:39.210 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--31732916\testng-customsuite.xml
+
+2025-10-30 11:02:44.203 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (dade2a91a1f8cdc7aa323840a9680277)
+2025-10-30 11:02:44.223 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2025-10-30 11:02:46.607 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@588cd519: 291 ms
+2025-10-30 11:02:46.610 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55f8669d: 2 ms
+2025-10-30 11:02:46.627 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@178270b2: 16 ms
+2025-10-30 11:02:46.653 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a22ad2b: 26 ms
+2025-10-30 11:02:46.674 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47e4d9d0: 20 ms
+2025-10-30 11:02:46.674 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@49798e84: 0 ms
+2025-10-30 11:04:11.384 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 11:04:11.395 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 11:04:11.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.399 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.413 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-10-30 11:04:11.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2025-10-30 11:04:11.437 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.441 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 11:04:11.446 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.447 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.448 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.448 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.450 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.450 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.457 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.459 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.460 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.461 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.466 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.467 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.469 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 11:04:11.471 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.473 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 11:04:11.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.480 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 11:04:11.481 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 11:04:11.496 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1201046120\testng-customsuite.xml
+
+2025-10-30 11:04:17.919 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (5ea46c808b56fe7feb3816831af73a29)
+2025-10-30 11:04:17.940 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2025-10-30 11:04:18.376 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 11:04:18.636 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 11:04:19.125 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 11:04:19.987 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@55f8669d: 287 ms
+2025-10-30 11:04:19.991 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@66ba7e45: 3 ms
+2025-10-30 11:04:20.010 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@141e879d: 19 ms
+2025-10-30 11:04:20.033 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4390f46e: 21 ms
+2025-10-30 11:04:20.047 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3015db78: 14 ms
+2025-10-30 11:04:20.048 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@515ebef3: 0 ms
+2025-10-30 19:16:54.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:16:54.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 19:16:54.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:54.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-10-30 19:16:55.027 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-10-30 19:16:55.029 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.030 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.033 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.035 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.035 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.043 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.044 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.045 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.045 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.051 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.052 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 19:16:55.056 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:16:55.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:16:55.063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:16:55.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:16:55.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-198865486\testng-customsuite.xml
+
+2025-10-30 19:17:01.394 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (00fae7f02ee007853be0d31006c2b0bb)
+2025-10-30 19:17:01.449 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 36 ms.
+2025-10-30 19:17:01.898 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:17:02.115 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:17:03.598 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:17:04.719 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@769a58e5: 330 ms
+2025-10-30 19:17:04.722 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@42435b98: 3 ms
+2025-10-30 19:17:04.741 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1b005a0b: 18 ms
+2025-10-30 19:17:04.771 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@121c54fa: 30 ms
+2025-10-30 19:17:04.789 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6ed06f69: 17 ms
+2025-10-30 19:17:04.790 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3015db78: 0 ms
+2025-10-30 19:26:51.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:26:51.945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 19:26:51.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.958 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-10-30 19:26:51.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-10-30 19:26:51.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.977 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.978 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 19:26:51.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:51.997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:51.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:52.004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:52.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:26:52.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:26:52.007 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:26:52.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-1787506253\testng-customsuite.xml
+
+2025-10-30 19:26:56.114 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (8d9ceaa862d2563a2bd57166a3511e97)
+2025-10-30 19:26:56.127 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-30 19:26:56.709 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:26:56.946 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:26:57.418 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:27:19.758 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4c2869a9: 384 ms
+2025-10-30 19:27:19.810 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7159139f: 49 ms
+2025-10-30 19:27:19.852 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3cbcd8f3: 41 ms
+2025-10-30 19:27:19.907 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29a4f594: 54 ms
+2025-10-30 19:27:19.934 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@17271176: 25 ms
+2025-10-30 19:27:19.935 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2e3cdec2: 0 ms
+2025-10-30 19:27:51.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 19:27:51.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 19:27:51.022 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.022 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-10-30 19:27:51.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2025-10-30 19:27:51.061 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.078 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.081 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:27:51.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.091 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-30 19:27:51.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.095 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.096 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.101 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:27:51.102 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:27:51.102 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:27:51.103 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:27:51.121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-1049065844\testng-customsuite.xml
+
+2025-10-30 19:27:56.354 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (14f76247205e8ede86e216aa843282e1)
+2025-10-30 19:27:56.377 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+2025-10-30 19:27:56.995 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:27:57.357 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:27:57.907 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:27:59.587 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@51b1a8f6: 536 ms
+2025-10-30 19:27:59.637 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@34dc85a: 50 ms
+2025-10-30 19:27:59.681 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1ba05e38: 43 ms
+2025-10-30 19:27:59.728 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4567e53d: 47 ms
+2025-10-30 19:27:59.751 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6e91893: 23 ms
+2025-10-30 19:27:59.751 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3c0fbd3a: 0 ms
+2025-10-30 19:31:18.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.913 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:31:18.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.918 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-10-30 19:31:18.944 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-10-30 19:31:18.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.954 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.955 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.963 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-30 19:31:18.977 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.980 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:31:18.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:31:18.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:18.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:31:18.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:31:19.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1789936637\testng-customsuite.xml
+
+2025-10-30 19:31:23.685 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (9b8d580a1c8eda30f8794d1396146b4f)
+2025-10-30 19:31:23.703 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-10-30 19:31:24.165 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:31:24.404 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:31:24.917 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:31:55.939 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@49ec6a9f: 224 ms
+2025-10-30 19:31:55.973 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@73d4066e: 34 ms
+2025-10-30 19:31:55.997 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@51841ac6: 23 ms
+2025-10-30 19:31:56.023 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7a8406c2: 26 ms
+2025-10-30 19:31:56.039 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5d7ca698: 15 ms
+2025-10-30 19:31:56.039 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@75961f16: 0 ms
+2025-10-30 19:34:16.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:34:16.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 19:34:16.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:34:16.941 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-10-30 19:34:16.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2025-10-30 19:34:16.960 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.961 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:34:16.963 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.963 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:16.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:16.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:16.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:16.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:16.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:16.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.980 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:16.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 19:34:16.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:16.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-10-30 19:34:16.997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:34:16.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:34:16.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:34:16.998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:34:17.013 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1091724653\testng-customsuite.xml
+
+2025-10-30 19:34:21.194 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (e0812f530d6f7a47654cfc61982bbcdb)
+2025-10-30 19:34:21.219 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+2025-10-30 19:34:21.754 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:34:21.996 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:34:22.506 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:34:22.531 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 19:34:22.536 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 19:35:03.476 [main] ERROR pageObjects.ActivityPage - Failed to click on Master menu: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Masters']' (tried for 15 second(s) with 500 milliseconds interval)
+2025-10-30 19:35:04.294 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@54562ea6: 246 ms
+2025-10-30 19:35:04.323 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@ae7950d: 29 ms
+2025-10-30 19:35:04.341 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5f80fa43: 17 ms
+2025-10-30 19:35:04.371 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7fc645e4: 30 ms
+2025-10-30 19:35:04.392 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3104f7bd: 21 ms
+2025-10-30 19:35:04.393 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2f5c1332: 1 ms
+2025-10-30 19:35:42.107 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:35:42.115 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 19:35:42.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-10-30 19:35:42.141 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-10-30 19:35:42.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:35:42.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.149 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.167 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-30 19:35:42.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:35:42.169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.175 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-10-30 19:35:42.177 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:35:42.178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:35:42.178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:35:42.192 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--438903171\testng-customsuite.xml
+
+2025-10-30 19:35:45.951 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (b0442a68c8e6acde3b32982123ff23dd)
+2025-10-30 19:35:45.973 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+2025-10-30 19:35:46.485 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:35:46.726 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:35:47.261 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:35:47.279 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 19:35:47.284 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 19:36:02.817 [main] ERROR pageObjects.ActivityPage - Failed to click on Master menu: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on windows (b0442a68c8e6acde3b32982123ff23dd)] -> xpath: //a[@title='Master']] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\danesh.a\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52754/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b0442a68c8e6acde3b32982123ff23dd
+2025-10-30 19:36:03.594 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4c59e45e: 211 ms
+2025-10-30 19:36:03.624 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7c29adc8: 29 ms
+2025-10-30 19:36:03.644 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7aa9e414: 20 ms
+2025-10-30 19:36:03.672 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@240f6c41: 28 ms
+2025-10-30 19:36:03.691 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5e746d37: 18 ms
+2025-10-30 19:36:03.692 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6e1b9411: 0 ms
+2025-10-30 19:40:35.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 19:40:35.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 19:40:35.122 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.122 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.137 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-10-30 19:40:35.154 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2025-10-30 19:40:35.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.166 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.166 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-30 19:40:35.184 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:40:35.186 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:40:35.193 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-10-30 19:40:35.197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:40:35.197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:40:35.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:40:35.217 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-226741430\testng-customsuite.xml
+
+2025-10-30 19:40:40.390 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (ea16a7662a4d056476cf3e9c5270d0ff)
+2025-10-30 19:40:40.416 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 17 ms.
+2025-10-30 19:40:41.486 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:40:41.885 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:40:42.538 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:40:42.565 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 19:40:42.571 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 19:40:44.226 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@109d724c: 377 ms
+2025-10-30 19:40:44.268 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@77b9d0c7: 41 ms
+2025-10-30 19:40:44.294 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@773e2eb5: 25 ms
+2025-10-30 19:40:44.326 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@66ec9390: 32 ms
+2025-10-30 19:40:44.348 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a3be6a5: 21 ms
+2025-10-30 19:40:44.349 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7cf162bc: 0 ms
+2025-10-30 19:41:19.324 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:41:19.335 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 19:41:19.339 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.339 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.350 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-10-30 19:41:19.368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2025-10-30 19:41:19.372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.373 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:41:19.376 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.377 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.378 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.379 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.380 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.381 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.383 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.388 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.389 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.390 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.390 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.398 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.402 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-30 19:41:19.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:41:19.405 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-10-30 19:41:19.421 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.423 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.423 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:41:19.424 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:41:19.445 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-2010699486\testng-customsuite.xml
+
+2025-10-30 19:41:22.942 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (6b73ac97b14d1eb365d8af2f0346bc0d)
+2025-10-30 19:41:22.964 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2025-10-30 19:41:24.321 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:41:24.568 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:41:25.155 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:41:25.173 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 19:41:25.176 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 19:41:27.166 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@58112bc4: 276 ms
+2025-10-30 19:41:27.201 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1e6dad8: 34 ms
+2025-10-30 19:41:27.223 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@253b380a: 22 ms
+2025-10-30 19:41:27.248 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3fae596: 25 ms
+2025-10-30 19:41:27.265 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1cb19dba: 17 ms
+2025-10-30 19:41:27.267 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7c3ebc6b: 0 ms
+2025-10-30 19:46:34.146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.158 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-30 19:46:34.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.176 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-10-30 19:46:34.193 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-10-30 19:46:34.195 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:46:34.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.200 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.203 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.205 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.206 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.211 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.213 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.214 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.219 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.221 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 19:46:34.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 19:46:34.235 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-10-30 19:46:34.240 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:46:34.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:46:34.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-1156817439\testng-customsuite.xml
+
+2025-10-30 19:46:38.389 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (2b531f94b72628b9069e99e032935e3d)
+2025-10-30 19:46:38.414 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-10-30 19:46:38.931 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:46:39.198 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:46:39.779 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:46:39.865 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 19:46:39.874 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 19:47:11.471 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2e6f610d: 371 ms
+2025-10-30 19:47:11.533 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@44b194fe: 58 ms
+2025-10-30 19:47:11.562 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@14fa92af: 29 ms
+2025-10-30 19:47:11.608 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@109a2025: 46 ms
+2025-10-30 19:47:11.628 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3414a8c3: 20 ms
+2025-10-30 19:47:11.629 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@36cc9385: 0 ms
+2025-10-30 19:59:22.994 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 19:59:23.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-30 19:59:23.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.029 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2025-10-30 19:59:23.052 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+2025-10-30 19:59:23.058 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-10-30 19:59:23.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.061 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.062 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.079 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.082 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.088 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.091 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 19:59:23.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 19:59:23.096 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.103 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-10-30 19:59:23.108 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.109 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 19:59:23.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 19:59:23.133 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-1995844755\testng-customsuite.xml
+
+2025-10-30 19:59:28.112 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (0bf0d0258801f320d115e4ba37fc1556)
+2025-10-30 19:59:28.149 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 21 ms.
+2025-10-30 19:59:28.731 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 19:59:29.001 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 19:59:29.510 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 19:59:29.543 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 19:59:29.548 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:00:03.473 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1d5d5621: 855 ms
+2025-10-30 20:00:03.559 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@278667fd: 82 ms
+2025-10-30 20:00:03.611 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7fd26ad8: 49 ms
+2025-10-30 20:00:03.664 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3eda0aeb: 53 ms
+2025-10-30 20:00:03.707 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@716e431d: 42 ms
+2025-10-30 20:00:03.708 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7e744f43: 0 ms
+2025-10-30 20:02:12.032 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:02:12.047 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-10-30 20:02:12.052 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.052 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2025-10-30 20:02:12.095 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2025-10-30 20:02:12.099 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.102 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:02:12.108 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.111 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.112 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.115 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:02:12.115 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.116 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.123 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.124 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.125 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.143 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-10-30 20:02:12.145 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:02:12.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:02:12.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-10-30 20:02:12.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:02:12.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:02:12.198 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1151018143\testng-customsuite.xml
+
+2025-10-30 20:02:17.949 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (2a6ee3b545c4533ca9bb70abc96fb2c6)
+2025-10-30 20:02:17.982 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2025-10-30 20:02:18.551 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:02:18.849 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:02:19.360 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:02:19.383 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:02:19.387 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:03:23.003 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@746b18fd: 500 ms
+2025-10-30 20:03:23.064 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@676ff3b0: 56 ms
+2025-10-30 20:03:23.098 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@15bc339: 34 ms
+2025-10-30 20:03:23.136 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4930539b: 38 ms
+2025-10-30 20:03:23.161 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@57b75756: 24 ms
+2025-10-30 20:03:23.161 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5327a06e: 0 ms
+2025-10-30 20:03:38.407 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:03:38.423 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-10-30 20:03:38.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 18 ms.
+2025-10-30 20:03:38.478 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+2025-10-30 20:03:38.482 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:03:38.485 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:03:38.488 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.490 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.493 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.494 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.497 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.500 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.507 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.508 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.510 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.511 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.521 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.526 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 20:03:38.527 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:03:38.529 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.543 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-10-30 20:03:38.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.554 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:03:38.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:03:38.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:03:38.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-70513642\testng-customsuite.xml
+
+2025-10-30 20:03:43.304 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (a81c1a9d84b076441f5b624de77f95e4)
+2025-10-30 20:03:43.339 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 23 ms.
+2025-10-30 20:03:44.964 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:03:45.276 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:03:45.837 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:03:45.855 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:03:45.858 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:03:47.703 [main] INFO  testBase.BaseTest - clickMaster() execution completed.
+2025-10-30 20:03:48.867 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@67c277a0: 395 ms
+2025-10-30 20:03:48.871 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d5f7182: 3 ms
+2025-10-30 20:03:48.891 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d4c273c: 19 ms
+2025-10-30 20:03:48.918 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6dcd5639: 26 ms
+2025-10-30 20:03:48.934 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3fae596: 16 ms
+2025-10-30 20:03:48.936 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4a0df195: 0 ms
+2025-10-30 20:06:13.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 20:06:13.912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-30 20:06:13.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.918 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2025-10-30 20:06:13.954 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-10-30 20:06:13.958 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.960 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:06:13.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.963 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.977 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:13.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-30 20:06:13.995 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:13.997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:06:14.008 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-10-30 20:06:14.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:14.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:14.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:06:14.015 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:06:14.039 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-1454853864\testng-customsuite.xml
+
+2025-10-30 20:06:19.298 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (d78034ef6479ada1951e93a16c13c392)
+2025-10-30 20:06:19.332 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 23 ms.
+2025-10-30 20:06:19.921 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:06:20.230 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:06:20.795 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:06:20.852 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:06:20.863 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:06:56.575 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@13275d8: 693 ms
+2025-10-30 20:06:56.744 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@684b31de: 167 ms
+2025-10-30 20:06:56.809 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1894593a: 64 ms
+2025-10-30 20:06:56.863 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@459b187a: 53 ms
+2025-10-30 20:06:56.910 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e744f43: 46 ms
+2025-10-30 20:06:56.911 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@11a8042c: 0 ms
+2025-10-30 20:37:35.504 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.509 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.512 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.520 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-30 20:37:35.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-10-30 20:37:35.532 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.532 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.533 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.536 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.537 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.537 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.541 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.541 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.541 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.542 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.544 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.544 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 20:37:35.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-10-30 20:37:35.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:37:35.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:37:35.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:37:35.566 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1892580347\testng-customsuite.xml
+
+2025-10-30 20:37:40.254 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (1135677575d75eaaf3d3a8499fa77e33)
+2025-10-30 20:37:40.268 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-30 20:37:40.548 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:37:40.691 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:37:40.815 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:37:40.824 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:37:40.828 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:38:01.865 [main] INFO  testBase.BaseTest - clickMaster() execution completed.
+2025-10-30 20:38:02.408 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c306a57: 128 ms
+2025-10-30 20:38:02.410 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1436a7ab: 1 ms
+2025-10-30 20:38:02.419 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@66ec9390: 9 ms
+2025-10-30 20:38:02.431 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@630d1b2f: 11 ms
+2025-10-30 20:38:02.440 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@518cf84a: 8 ms
+2025-10-30 20:38:02.440 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@62e7dffa: 0 ms
+2025-10-30 20:40:43.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:40:43.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 20:40:43.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-30 20:40:43.102 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+2025-10-30 20:40:43.104 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.107 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.108 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.108 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.109 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.109 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.112 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.114 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.117 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.121 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 20:40:43.121 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.123 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-10-30 20:40:43.132 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:40:43.133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:40:43.133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:40:43.133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:40:43.141 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1462706912\testng-customsuite.xml
+
+2025-10-30 20:40:46.279 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (babfb58e7c35f750c23326cd05b7abb5)
+2025-10-30 20:40:46.296 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-10-30 20:40:46.571 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:40:46.709 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:40:46.864 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:40:46.875 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:40:46.876 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:41:17.739 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@67f3d192: 275 ms
+2025-10-30 20:41:17.780 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@782be4eb: 40 ms
+2025-10-30 20:41:17.801 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@78c1372d: 21 ms
+2025-10-30 20:41:17.826 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5cbe2654: 24 ms
+2025-10-30 20:41:17.839 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@66f0548d: 12 ms
+2025-10-30 20:41:17.839 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2e6f610d: 0 ms
+2025-10-30 20:47:08.067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:47:08.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.083 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-30 20:47:08.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-10-30 20:47:08.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.094 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.095 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.095 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.096 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.096 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.097 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.097 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.100 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.100 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.101 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.101 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.103 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.103 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 20:47:08.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.107 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:47:08.111 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-30 20:47:08.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.114 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:08.114 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:08.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-1997671621\testng-customsuite.xml
+
+2025-10-30 20:47:10.971 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (4491fd8fa35123b37f3bb035375ab173)
+2025-10-30 20:47:10.985 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-30 20:47:11.266 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:47:11.400 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:47:11.526 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:47:11.537 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:47:11.539 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:47:41.858 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5d425813: 149 ms
+2025-10-30 20:47:41.877 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3eda0aeb: 19 ms
+2025-10-30 20:47:41.888 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5f7da3d3: 11 ms
+2025-10-30 20:47:41.900 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@34d4860f: 12 ms
+2025-10-30 20:47:41.908 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6a0094c9: 8 ms
+2025-10-30 20:47:41.908 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51a6cc2a: 0 ms
+2025-10-30 20:47:43.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:47:43.946 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:47:43.948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.955 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-30 20:47:43.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-10-30 20:47:43.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.969 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.980 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:47:43.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:47:43.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-30 20:47:43.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:47:43.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:47:43.991 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:47:43.999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-2058708779\testng-customsuite.xml
+
+2025-10-30 20:47:46.723 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (12ddf7213e6ddc2305bbd725592c4adb)
+2025-10-30 20:47:46.738 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-10-30 20:47:47.027 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:47:47.183 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:47:47.508 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:48:10.853 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:49:20.035 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:52:22.179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.186 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-10-30 20:52:22.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-10-30 20:52:22.205 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.205 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.206 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.206 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.207 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.207 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.207 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.208 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.208 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.210 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.213 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.213 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.213 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.216 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.216 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.218 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 20:52:22.219 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.220 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:52:22.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-10-30 20:52:22.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:52:22.227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:52:22.235 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--652633689\testng-customsuite.xml
+
+2025-10-30 20:52:25.489 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (a2e3885efb3748145404b0e5ff83b313)
+2025-10-30 20:52:25.500 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-10-30 20:52:25.770 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:52:25.929 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:52:26.304 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:52:26.317 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:52:26.321 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:52:57.055 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1a0b5323: 138 ms
+2025-10-30 20:52:57.073 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5cbe2654: 18 ms
+2025-10-30 20:52:57.084 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4715ae33: 11 ms
+2025-10-30 20:52:57.098 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@534c6767: 14 ms
+2025-10-30 20:52:57.107 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4d3ca6c7: 9 ms
+2025-10-30 20:52:57.107 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@22e5f96e: 0 ms
+2025-10-30 20:55:18.842 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:55:18.848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:55:18.850 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.851 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.857 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-30 20:55:18.867 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-10-30 20:55:18.868 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.868 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.869 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.869 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.869 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.871 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.871 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.873 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.873 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.873 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.873 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.876 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.877 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.878 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:55:18.880 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:55:18.881 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-10-30 20:55:18.887 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.887 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.888 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:55:18.888 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:55:18.898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1807220810\testng-customsuite.xml
+
+2025-10-30 20:55:22.279 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (f04330dac828a4be264997685786169a)
+2025-10-30 20:55:22.293 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-30 20:55:22.700 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:55:22.969 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:55:23.437 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:55:23.455 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:57:02.891 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-30 20:57:02.900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-10-30 20:57:02.916 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-10-30 20:57:02.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.918 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.918 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.920 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.920 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.920 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.921 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.926 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 20:57:02.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:57:02.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-30 20:57:02.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:02.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:02.946 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-387725692\testng-customsuite.xml
+
+2025-10-30 20:57:05.774 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (b306873e3938ab00f7a764414fe972a0)
+2025-10-30 20:57:05.784 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-10-30 20:57:06.038 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:57:06.199 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:57:06.358 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:57:06.371 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:57:06.376 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:57:36.751 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1c9e07c6: 148 ms
+2025-10-30 20:57:36.771 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@38792286: 19 ms
+2025-10-30 20:57:36.783 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@9aa2002: 12 ms
+2025-10-30 20:57:36.799 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6dbcf214: 16 ms
+2025-10-30 20:57:36.808 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2e6f610d: 8 ms
+2025-10-30 20:57:36.808 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1e86a5a7: 0 ms
+2025-10-30 20:57:47.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-30 20:57:47.297 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-30 20:57:47.301 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.301 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.312 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-10-30 20:57:47.324 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-10-30 20:57:47.327 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.328 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:57:47.329 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.330 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.330 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.331 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.331 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.331 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.332 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.332 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.336 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.336 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.337 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.337 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.343 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.343 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.346 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-10-30 20:57:47.347 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-30 20:57:47.348 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.353 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-10-30 20:57:47.355 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.356 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-30 20:57:47.358 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-30 20:57:47.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1007096340\testng-customsuite.xml
+
+2025-10-30 20:57:51.316 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (c01e43c011fbd3139b4b995b316e7ec2)
+2025-10-30 20:57:51.332 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-10-30 20:57:51.625 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 20:57:51.815 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 20:57:51.953 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 20:57:51.963 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 20:57:51.967 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 20:58:23.601 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@665522c2: 372 ms
+2025-10-30 20:58:23.651 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@435e60ff: 44 ms
+2025-10-30 20:58:23.676 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6850b758: 25 ms
+2025-10-30 20:58:23.704 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@44b18fe4: 27 ms
+2025-10-30 20:58:23.735 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3fe46690: 30 ms
+2025-10-30 20:58:23.736 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4beabeec: 0 ms
+2025-10-30 23:19:12.930 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-30 23:19:55.963 [main] INFO  testBase.BaseTest - Browser launched: ChromeDriver: chrome on windows (c0035e2a3bb9005ef44a79bf664d738d)
+2025-10-30 23:19:56.609 [main] INFO  testBase.BaseTest - Username Entered Successfully
+2025-10-30 23:19:57.037 [main] INFO  testBase.BaseTest - Password Entered Successfully
+2025-10-30 23:20:03.921 [main] INFO  testBase.BaseTest - Login action performed Successfully
+2025-10-30 23:20:03.939 [main] INFO  testBase.BaseTest - Initializing ActivityPage object...
+2025-10-30 23:20:03.944 [main] INFO  testBase.BaseTest - Calling clickMaster() method...
+2025-10-30 23:35:41.505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-30 23:35:45.159 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (8dafb84717a116ef0fac4887fb8d250e)
+2025-10-30 23:35:45.460 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-30 23:35:45.668 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-30 23:35:46.090 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-30 23:35:46.115 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-30 23:35:46.118 [main] INFO  testCases.LoginTest - Calling clickMaster() method...
+2025-10-30 23:45:31.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-30 23:45:35.982 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (50f868a00e4775305fbef5c3a0d11536)
+2025-10-30 23:45:36.270 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-30 23:45:36.405 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-30 23:45:36.755 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-30 23:45:36.777 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-30 23:45:36.783 [main] INFO  testCases.LoginTest - Calling clickMaster() method...
+2025-10-30 23:48:52.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-30 23:48:56.091 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (355bff620ae366cd716854a9627641f1)
+2025-10-30 23:48:56.351 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-30 23:48:56.530 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-30 23:48:56.880 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-30 23:52:29.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-30 23:52:33.871 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (07eadbc9240ffa823dcb3b5fbc3da4ea)
+2025-10-30 23:52:34.288 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-30 23:52:34.619 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-30 23:52:35.249 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:24:25.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:24:33.122 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (d0ab86e9a2e99a69560af98db7e16975)
+2025-10-31 00:24:33.370 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:24:33.497 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:24:33.845 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:24:33.862 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:29:38.812 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:29:42.547 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (2835b54d8d13ca500cf39f384e2b1b97)
+2025-10-31 00:29:42.802 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:29:42.946 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:29:43.069 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:29:43.081 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:30:43.632 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-31 00:30:43.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-31 00:30:43.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.649 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-31 00:30:43.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-10-31 00:30:43.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.664 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.667 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.668 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.668 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.669 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.669 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.671 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.674 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.674 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.676 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.677 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.680 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.681 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.682 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-31 00:30:43.683 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.684 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.693 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-10-31 00:30:43.696 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.696 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.697 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:30:43.697 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:30:43.710 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse-1896899260\testng-customsuite.xml
+
+2025-10-31 00:30:43.762 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-10-31 00:30:44.040 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@600b0b7: 161 ms
+2025-10-31 00:30:44.062 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@52eacb4b: 21 ms
+2025-10-31 00:30:44.074 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@251f7d26: 11 ms
+2025-10-31 00:30:44.090 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@37d3d232: 14 ms
+2025-10-31 00:30:44.101 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46cf05f7: 10 ms
+2025-10-31 00:30:44.102 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5851bd4f: 1 ms
+2025-10-31 00:31:03.400 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.407 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-31 00:31:03.409 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.409 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-31 00:31:03.429 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-10-31 00:31:03.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.435 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.437 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.437 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.438 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.439 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.440 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.440 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.443 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.444 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.445 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.450 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-31 00:31:03.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.459 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-10-31 00:31:03.461 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.463 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.463 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 00:31:03.463 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 00:31:03.474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--351927412\testng-customsuite.xml
+
+2025-10-31 00:31:03.533 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-10-31 00:31:03.868 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5be82d43: 198 ms
+2025-10-31 00:31:03.902 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@52eacb4b: 32 ms
+2025-10-31 00:31:03.922 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@251f7d26: 20 ms
+2025-10-31 00:31:03.946 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@37d3d232: 23 ms
+2025-10-31 00:31:03.960 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46cf05f7: 14 ms
+2025-10-31 00:31:03.961 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5851bd4f: 0 ms
+2025-10-31 00:31:16.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:31:20.100 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (2180323fe42002d139a587622a2fbb23)
+2025-10-31 00:31:20.367 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:31:20.548 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:31:20.869 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:31:56.553 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:32:00.131 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (1ca50e9c0757af9fcd398877b985dcdf)
+2025-10-31 00:32:00.362 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:32:00.516 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:32:00.648 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:32:00.658 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:32:28.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:32:31.992 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (9b6caf506106a643b87aa0b28e267755)
+2025-10-31 00:32:32.262 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:32:32.381 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:32:32.500 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:32:32.510 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:33:28.430 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:33:31.896 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (84c9ac67a06c0bf458d452385a17065e)
+2025-10-31 00:33:32.182 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:33:32.319 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:33:32.618 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:33:32.639 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:34:54.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:34:58.347 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (9959c371017d448d4333edebf1c0b997)
+2025-10-31 00:34:58.622 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:34:58.775 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:34:58.931 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:34:58.952 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:36:39.424 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:36:43.207 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (3ce01e21660d90597529e4e85e0b4f48)
+2025-10-31 00:36:43.467 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:36:43.589 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:36:43.873 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:36:43.890 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:37:36.467 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:37:39.931 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (3e262ccef6eee8b3871847034e4d3be4)
+2025-10-31 00:37:40.180 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:37:40.298 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:37:40.651 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:37:40.666 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:39:32.112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:39:35.977 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (1562d7a8c83eec03f6d57fe0f59e30c0)
+2025-10-31 00:39:36.242 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:39:36.392 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:39:36.532 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:39:36.546 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:40:04.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:40:07.679 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (ebfaf8267619cc5d919873c8fc62fa36)
+2025-10-31 00:40:07.962 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:40:08.080 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:40:08.199 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:40:08.209 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:40:47.769 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:40:51.280 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (b10c4fd38cadf05c0bf5020b8acc3434)
+2025-10-31 00:40:51.541 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:40:51.705 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:40:52.086 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:40:52.110 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:42:15.066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:42:19.679 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (456da2d1c028277ced99e1ec42810451)
+2025-10-31 00:42:20.078 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:42:20.270 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:42:20.595 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:42:20.615 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:42:57.441 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:43:00.993 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (ca222b1f1dc0f6e578f3b06dd49e0154)
+2025-10-31 00:43:01.277 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:43:01.407 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:43:01.793 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:43:01.811 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:47:49.513 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:47:53.226 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (f88216d2a3c71b1c6707459c38762b30)
+2025-10-31 00:47:53.486 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:47:53.693 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:47:53.858 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:47:53.871 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:47:58.605 [main] INFO  pageObjects.ActivityPage - User logged out successfully.
+2025-10-31 00:48:35.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:48:39.080 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (f821d56b0855bfc88ba57371364a58a3)
+2025-10-31 00:48:39.336 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:48:39.474 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:48:39.805 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:48:39.828 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:48:40.783 [main] INFO  pageObjects.ActivityPage - Hovered over Profile icon.
+2025-10-31 00:48:41.079 [main] INFO  pageObjects.ActivityPage - Hovered over Logout Button.
+2025-10-31 00:48:44.350 [main] INFO  pageObjects.ActivityPage - User logged out successfully.
+2025-10-31 00:52:12.068 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 00:52:15.892 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (8c3e504c1779784df90441eaf70fed78)
+2025-10-31 00:52:16.146 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 00:52:16.292 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 00:52:16.414 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 00:52:16.426 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 00:52:17.515 [main] INFO  pageObjects.ActivityPage - Hovered over Profile icon.
+2025-10-31 00:52:17.797 [main] INFO  pageObjects.ActivityPage - Hovered over Logout Button.
+2025-10-31 00:52:21.143 [main] INFO  pageObjects.ActivityPage - User logged out successfully.
+2025-10-31 01:23:01.769 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-31 01:23:01.776 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-10-31 01:23:01.778 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.778 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.784 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-10-31 01:23:01.794 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-10-31 01:23:01.795 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.796 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.797 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.797 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.798 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.798 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.799 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.799 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.800 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.800 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.802 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.803 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.804 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-10-31 01:23:01.804 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.808 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.808 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.809 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.810 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.811 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.815 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-10-31 01:23:01.817 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.817 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.817 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:23:01.819 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:23:01.827 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--1181615204\testng-customsuite.xml
+
+2025-10-31 01:23:01.870 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-10-31 01:23:02.199 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6111ba37: 192 ms
+2025-10-31 01:23:02.240 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@71b3bc45: 40 ms
+2025-10-31 01:23:02.264 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@76f7d241: 23 ms
+2025-10-31 01:23:02.292 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4de41af9: 26 ms
+2025-10-31 01:23:02.307 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@62435e70: 15 ms
+2025-10-31 01:23:02.308 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@339bf286: 0 ms
+2025-10-31 01:23:21.795 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 01:23:25.634 [main] INFO  testCases.LoginTest - Browser launched: ChromeDriver: chrome on windows (beb516b8649ebf8d23d8c177b86828d4)
+2025-10-31 01:23:25.906 [main] INFO  testCases.LoginTest - Username Entered Successfully
+2025-10-31 01:23:26.043 [main] INFO  testCases.LoginTest - Password Entered Successfully
+2025-10-31 01:23:32.303 [main] INFO  testCases.LoginTest - Login action performed Successfully
+2025-10-31 01:23:33.369 [main] INFO  testCases.LoginTest - Initializing ActivityPage object...
+2025-10-31 01:23:33.621 [main] INFO  pageObjects.ActivityPage - Hovered over Profile icon.
+2025-10-31 01:23:33.875 [main] INFO  pageObjects.ActivityPage - Hovered over Logout Button.
+2025-10-31 01:23:37.235 [main] INFO  pageObjects.ActivityPage - User logged out successfully.
+2025-10-31 01:36:17.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 01:36:23.397 [main] INFO  testCases.DataDrivenLoginTest - Browser launched: ChromeDriver: chrome on windows (6cad823ee4e9965855899abd613e0f85)
+2025-10-31 01:37:43.192 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.200 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-10-31 01:37:43.202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.209 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-10-31 01:37:43.220 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-10-31 01:37:43.222 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.222 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.223 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.223 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.231 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.235 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.235 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.236 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.237 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.238 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.238 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.240 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.241 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.241 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-10-31 01:37:43.241 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-10-31 01:37:43.250 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\danesh.a\AppData\Local\Temp\testng-eclipse--126164128\testng-customsuite.xml
+
+2025-10-31 01:37:43.295 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-10-31 01:37:44.560 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6a9d5dff: 181 ms
+2025-10-31 01:37:44.584 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4ba89729: 23 ms
+2025-10-31 01:37:44.602 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@48c3205a: 18 ms
+2025-10-31 01:37:44.618 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5a6482a9: 16 ms
+2025-10-31 01:37:44.627 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@749ab7b4: 8 ms
+2025-10-31 01:37:44.628 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@127f9161: 1 ms
+2025-10-31 01:37:58.740 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 01:38:02.636 [main] INFO  testCases.DataDrivenLoginTest - Browser launched: ChromeDriver: chrome on windows (eafa622b6c96e9e57b5ea17a75f6f880)
+2025-10-31 01:38:58.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 01:39:01.621 [main] INFO  testCases.DataDrivenLoginTest - Browser launched: ChromeDriver: chrome on windows (31194809f35302e21aa7fafb36434861)
+2025-10-31 01:40:45.273 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation_Study_Materials\Danesh_Bimbo\src\test\java\testCases\testng.xml
+
+2025-10-31 01:40:48.918 [main] INFO  testCases.DataDrivenLoginTest - Browser launched: ChromeDriver: chrome on windows (bae7fa272c8c0c6658c90bfbdf07e5f4)
+2025-10-31 01:40:50.400 [main] INFO  testCases.DataDrivenLoginTest - Starting login test with Username: L1_user | Expected: Valid
+2025-10-31 01:40:51.413 [main] INFO  testCases.DataDrivenLoginTest - Clicked on Login button
+2025-10-31 01:40:52.128 [main] INFO  testCases.DataDrivenLoginTest - Login successful - navigating to Activity Page
+2025-10-31 01:40:52.396 [main] INFO  pageObjects.ActivityPage - Hovered over Profile icon.
+2025-10-31 01:40:52.714 [main] INFO  pageObjects.ActivityPage - Hovered over Logout Button.
+2025-10-31 01:40:55.998 [main] INFO  pageObjects.ActivityPage - User logged out successfully.
+2025-10-31 01:40:55.998 [main] INFO  testCases.DataDrivenLoginTest - Logout successful
+2025-10-31 01:40:56.012 [main] INFO  testCases.DataDrivenLoginTest - Starting login test with Username: Bimbo_Catalog | Expected: Valid
+2025-10-31 01:40:56.582 [main] INFO  testCases.DataDrivenLoginTest - Clicked on Login button
+2025-10-31 01:40:56.744 [main] INFO  testCases.DataDrivenLoginTest - Login successful - navigating to Activity Page
+2025-10-31 01:40:56.980 [main] INFO  pageObjects.ActivityPage - Hovered over Profile icon.
+2025-10-31 01:40:57.350 [main] INFO  pageObjects.ActivityPage - Hovered over Logout Button.
+2025-10-31 01:41:00.662 [main] INFO  pageObjects.ActivityPage - User logged out successfully.
+2025-10-31 01:41:00.664 [main] INFO  testCases.DataDrivenLoginTest - Logout successful
+2025-10-31 01:41:00.676 [main] INFO  testCases.DataDrivenLoginTest - Starting login test with Username: 901976_disp | Expected: Valid
+2025-10-31 01:41:01.037 [main] INFO  testCases.DataDrivenLoginTest - Clicked on Login button
+2025-10-31 01:41:01.603 [main] INFO  testCases.DataDrivenLoginTest - Login successful - navigating to Activity Page
+2025-10-31 01:41:01.828 [main] INFO  pageObjects.ActivityPage - Hovered over Profile icon.
+2025-10-31 01:41:02.092 [main] INFO  pageObjects.ActivityPage - Hovered over Logout Button.
+2025-10-31 01:41:05.396 [main] INFO  pageObjects.ActivityPage - User logged out successfully.
+2025-10-31 01:41:05.396 [main] INFO  testCases.DataDrivenLoginTest - Logout successful
+2025-10-31 01:41:05.409 [main] INFO  testCases.DataDrivenLoginTest - Starting login test with Username: 901976_cash | Expected: Valid
+2025-10-31 01:41:05.940 [main] INFO  testCases.DataDrivenLoginTest - Clicked on Login button
+2025-10-31 01:41:06.014 [main] ERROR testCases.DataDrivenLoginTest - Valid login failed - Unexpected page title
+2025-10-31 01:41:06.028 [main] INFO  testCases.DataDrivenLoginTest - Starting login test with Username: L1_user | Expected: InValid
+2025-10-31 01:41:06.537 [main] INFO  testCases.DataDrivenLoginTest - Clicked on Login button
+2025-10-31 01:41:06.606 [main] INFO  testCases.DataDrivenLoginTest - Invalid login correctly failed
