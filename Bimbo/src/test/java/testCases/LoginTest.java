@@ -26,7 +26,7 @@ public class LoginTest extends BaseTest {
         
     }
     
-    /*
+    
     @Test(priority=2)
     public void verifyMasterMenuNavigation() throws InterruptedException 
     {
@@ -39,8 +39,8 @@ public class LoginTest extends BaseTest {
         AP.clickMaster();
         logger.info("clickMaster() execution completed.");
     }
-	*/
-    
+	
+    /*
     @Test(priority=10)
     public void VerifyLogout() throws InterruptedException 
     {
@@ -52,5 +52,5 @@ public class LoginTest extends BaseTest {
         Thread.sleep(3000);
         
     }
-
+	*/
 }

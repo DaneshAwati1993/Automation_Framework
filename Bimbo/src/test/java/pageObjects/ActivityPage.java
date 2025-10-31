@@ -4,6 +4,7 @@ import java.time.Duration;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -17,6 +18,7 @@ public class ActivityPage extends BasePage {
 
 	private WebDriver driver;
     public Logger logger;
+    private By masterlocator=By.cssSelector("a[title='Master']");
     
 	public ActivityPage(WebDriver driver) 
 	{
@@ -34,15 +36,16 @@ public class ActivityPage extends BasePage {
 	WebElement profile;
 	@FindBy(xpath="//a[normalize-space()='Sign Out']") 
 	WebElement Logout;
-	/*
+	
 	public void clickMaster() {
 	    try {
 	        WebDriverWait wait = new WebDriverWait(this.driver, Duration.ofSeconds(30));
-	        wait.until(ExpectedConditions.visibilityOf(master));
-	        wait.until(ExpectedConditions.elementToBeClickable(master));
+	        wait.until(ExpectedConditions.presenceOfElementLocated(masterlocator));
+	        //wait.until(ExpectedConditions.elementToBeClickable(master));
 
 	        Actions actions = new Actions(this.driver);
 	        actions.scrollToElement(master).perform(); // must call perform()
+	        //logger.info("Scrolled to Master menu element.");
 
 	        master.click(); //  click after scroll
 	        System.out.println("Clicked on Master menu successfully.");
@@ -53,7 +56,7 @@ public class ActivityPage extends BasePage {
 	        Assert.fail("Test failed due to exception: " + e.getMessage());
 	    }
 	}
-	    */
+	    /*
 	public void clickLogout() {
 		
     	logger =LogManager.getLogger(this.getClass());
@@ -87,6 +90,7 @@ public class ActivityPage extends BasePage {
 	        Assert.fail("Test failed due to exception: " + e.getMessage());
 	    }
 	}
+	*/
 
 
 }
