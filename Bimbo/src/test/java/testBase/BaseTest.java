@@ -13,6 +13,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 public class BaseTest {
@@ -22,8 +23,8 @@ public class BaseTest {
     public Properties p;
     
     @BeforeTest
-    @Parameters({"os","browser"})
-    public void setup(String os, String br) throws IOException 
+    @Parameters({"browser"})
+    public void setup(@Optional("chrome") String br) throws IOException 
     {
     	
     	//Loading config.properties file 
@@ -34,6 +35,11 @@ public class BaseTest {
     	
     	
     	logger =LogManager.getLogger(this.getClass());
+    	
+    	if (br == null || br.isEmpty()) 
+    	{
+            br = "chrome"; // ✅ Default browser
+        }
     	
     	switch(br.toLowerCase())
     	{
