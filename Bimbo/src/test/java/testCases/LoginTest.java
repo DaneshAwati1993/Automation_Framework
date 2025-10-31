@@ -38,6 +38,10 @@ public class LoginTest extends BaseTest {
         logger.info("Calling clickMaster() method...");
         AP.clickMaster();
         logger.info("clickMaster() execution completed.");
+        
+        logger.info("Calling clickReason() method...");
+        AP.clickReason();
+        logger.info("clickReason() execution completed.");
     }
 	
     /*

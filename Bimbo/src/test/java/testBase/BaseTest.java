@@ -64,7 +64,7 @@ public class BaseTest {
         logger.info("Browser launched: {}", driver);
     }
 
-    /*
+    
     @AfterTest
     public void tearDown() 
     {
@@ -74,6 +74,6 @@ public class BaseTest {
             System.out.println("🧹 Browser closed successfully.");
         }
     }
-    */
+    
     
 }

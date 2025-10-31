@@ -31,12 +31,15 @@ public class ActivityPage extends BasePage {
 	@FindBy(css="a[title='Master']") 
 	WebElement master;
 	
+	@FindBy(css="a[title='Reason']") 
+	WebElement Reason;
 
 	@FindBy(xpath="//a[@id='prof-anchor']") 
 	WebElement profile;
+	
 	@FindBy(xpath="//a[normalize-space()='Sign Out']") 
 	WebElement Logout;
-	
+	/*
 	public void clickMaster() {
 	    try {
 	        WebDriverWait wait = new WebDriverWait(this.driver, Duration.ofSeconds(30));
@@ -49,6 +52,7 @@ public class ActivityPage extends BasePage {
 
 	        master.click(); //  click after scroll
 	        System.out.println("Clicked on Master menu successfully.");
+	        
 
 	    } catch (Exception e) 
 	    {
@@ -56,7 +60,28 @@ public class ActivityPage extends BasePage {
 	        Assert.fail("Test failed due to exception: " + e.getMessage());
 	    }
 	}
-	    /*
+	
+	public void clickReason() {
+	    try {
+	        WebDriverWait wait = new WebDriverWait(this.driver, Duration.ofSeconds(30));
+	        //wait.until(ExpectedConditions.presenceOfElementLocated(masterlocator));
+	        wait.until(ExpectedConditions.elementToBeClickable(Reason));
+
+	        Actions actions = new Actions(this.driver);
+	        actions.scrollToElement(Reason).perform(); // must call perform()
+	        //logger.info("Scrolled to Master menu element.");
+
+	        Reason.click(); //  click after scroll
+	        System.out.println("Clicked on Master menu successfully.");
+	        
+
+	    } catch (Exception e) 
+	    {
+	        System.out.println("Failed to click on Master menu: " + e.getMessage());
+	        Assert.fail("Test failed due to exception: " + e.getMessage());
+	    }
+	}
+	    */
 	public void clickLogout() {
 		
     	logger =LogManager.getLogger(this.getClass());
@@ -90,7 +115,7 @@ public class ActivityPage extends BasePage {
 	        Assert.fail("Test failed due to exception: " + e.getMessage());
 	    }
 	}
-	*/
+	
 
 
 }
