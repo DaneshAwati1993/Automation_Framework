@@ -2,7 +2,7 @@ package Java_Basics;
 
 import java.util.Scanner;
 
-public class Java_Arithmetic_Operators_Practice_Questions {
+public class Arithmetic_Operators_Practice_Questions {
 
 	public static void main(String[] args) {
 
@@ -334,6 +334,65 @@ public class Java_Arithmetic_Operators_Practice_Questions {
 //     	🧩 Mini-Projects (Optional Practice)
 //
 //     	31️⃣ Create a Simple Calculator using switch statements that performs + - * / %.
+     	
+     	/*
+     	
+     	Scanner sc=new Scanner(System.in);
+     	
+     	System.out.println("Enter the num1 value : ");
+     	double numb1=sc.nextDouble();
+     	
+     	System.out.println("Enter the num1 value : ");
+     	double numb2=sc.nextDouble();
+     	
+     	System.out.println("Enter the operator value : ");
+     	char operator=sc.next().charAt(0);
+     	
+     	double Results1;
+     	
+     	switch(operator)
+     	{
+     	case '+':
+     	Results1=numb1 + numb2;
+     	System.out.println("The Sum of numb1 & numb2 : "+Results1);
+     	break;
+     	
+     	case '-':         	
+     	Results1=numb1 - numb2;
+     	System.out.println("The Substarct of numb1 & numb2 : "+Results1);
+     	break;
+     	
+     	case '*':         	
+     	Results1=numb1 * numb2;
+     	System.out.println("The Product of numb1 & numb2 : "+Results1);
+     	break;
+     	
+     	case '/':
+         	if(numb2 !=0)
+         	{
+     	Results1=numb1 / numb2;
+     	System.out.println("The Division of numb1 & numb2 : "+Results1);
+         	}
+         	else {
+             	System.out.println("Error: Division by zero!");
+         	}
+
+     	
+     	case '%':
+     		if(numb2 !=0)
+         	{
+     	Results1=numb1 % numb2;
+     	System.out.println("The Division of numb1 & numb2 : "+Results1);
+         	}
+     		else {
+     	System.out.println("Error: Division by zero!");   	
+     	}
+     		default :
+     			System.out.println("Invalid operator! Please use +, -, *, /, or %.");
+     	}
+     	
+     	*/
+     	
 //     	32️⃣ Create a Marks to Grade Converter that takes total marks and prints a grade based on percentage.
      	/*
      	Scanner sc=new Scanner(System.in);
@@ -371,6 +430,23 @@ public class Java_Arithmetic_Operators_Practice_Questions {
      	*/
      	
 //     	33️⃣ Build a Shopping Discount Calculator — input total amount and discount rate, output discounted price.
+     	
+     	Scanner sc=new Scanner(System.in);
+     	System.out.println("Enter the Total AMount : ");
+     	double TotAmount=sc.nextDouble();
+     	System.out.println("Enter the Discount %age  : ");
+     	double Disc=sc.nextDouble();
+     	
+     	double Discount= TotAmount * Disc / 100;
+     	
+     	double finalAmount = TotAmount - Discount ;
+     	
+     	System.out.println("The Total amount of Invoice is : "+TotAmount);
+     	System.out.println("The Discount rate is : "+Disc);
+     	System.out.println("Total Discount applied on the Invoice is : "+Discount);
+     	System.out.println("The Total amount of Invoice after Discount amount is : "+finalAmount);
+
+     	
 
 		
 	}
