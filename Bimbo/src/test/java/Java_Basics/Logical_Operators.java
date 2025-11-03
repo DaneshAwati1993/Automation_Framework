@@ -180,9 +180,76 @@ public class Logical_Operators {
 		*/
 		
 //		12️⃣ Verify if a point (x, y) lies inside a rectangle defined by (x1, y1) and (x2, y2).
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter the values for the x,y,x1,y1,x2,y2  : ");
+		int x=sc.nextInt();
+		int x1=sc.nextInt();
+		int x2=sc.nextInt();
+		int y=sc.nextInt();
+		int y1=sc.nextInt();
+		int y2=sc.nextInt();
+		
+		if ((x>=x1 && x<=x2) && (y>=y1 && y<=y2))
+		{
+			System.out.println("point (x, y) lies inside a rectangle");
+		}
+		else
+		{
+			System.out.println("point (x, y) lies outside a rectangle");
+		}
+
+		
 //		13️⃣ Determine if a person qualifies for loan based on age, salary, and credit score.
+		
+		int age13=21;
+		double salary=35000;
+		int CreditScore=810;
+		if (age13>=21 && salary>=30000 && CreditScore>=750)
+		{
+			System.out.println("The Person is Qualifies for the Loan........");
+		}
+		else
+		{
+			System.out.println("The Person is Not-Qualifies for the Loan........");
+		}
+		
 //		14️⃣ Check if a number is a multiple of both 2 and 3 but not of 5.
+		
+		int num14=101;
+		int multi2=num14%2 , multi3=num14%3 , multi5=num14%5 ;
+		if(multi2==0 && multi3==0 && multi5!=0)
+		{
+			System.out.println("Number is a multiple of both 2 and 3 but not of 5.");
+		}
+		else if ((multi2==0 && multi3!=0 && multi5!=0))
+		{
+			System.out.println("Number is a multiple of 2.");
+		}
+		else if ((multi2!=0 && multi3==0 && multi5!=0))
+		{
+			System.out.println("Number is a multiple of 3.");
+		}
+		else if ((multi2!=0 && multi3!=0 && multi5==0))
+		{
+			System.out.println("Number is a multiple of 5.");
+		}
+		else
+		{
+			System.out.println("Number is a Not-multiple of  2 , 3 and 5.");
+		}
 //		15️⃣ Simulate a security gate: grant entry only if (card swiped and pin correct) or (admin override).
+		
+		boolean cardswap=true;
+		boolean pincorrect=false;
+		boolean adminoverride=true;
+		if (cardswap==true && pincorrect==true || adminoverride==true)
+		{
+			System.out.println("The Security gate Grant the Entry.....");
+		}
+		else
+		{
+			System.out.println("The Security gate Not-Allow the Entry.....");
+		}
 	}
 
 }
