@@ -62,6 +62,12 @@ public class Ternary_Operator {
 //		🔴 Advanced Level
 //
 //		11️⃣ Print which among 4 numbers is largest using chained ternary.
+		int num111=300, num112=200, num113=150, num114=250;
+		int large=(num111>num112 && num111>num113 && num111>num114)? num111:
+			(num112>num111 && num112>num113 && num112>num114)? num112:
+			(num113>num112 && num113>num111 && num113>num114)? num113: num114;
+		System.out.println("The largest number is : "+large);
+		
 //		12️⃣ Use ternary inside a print statement to classify age groups (child/teen/adult/senior).
 //		13️⃣ Combine ternary with logical operators for eligibility check.
 //		14️⃣ Recreate a simple calculator using nested ternary.
