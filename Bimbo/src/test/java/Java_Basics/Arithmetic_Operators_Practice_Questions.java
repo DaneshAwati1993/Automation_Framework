@@ -446,9 +446,6 @@ public class Arithmetic_Operators_Practice_Questions {
      	System.out.println("Total Discount applied on the Invoice is : "+Discount);
      	System.out.println("The Total amount of Invoice after Discount amount is : "+finalAmount);
 
-     	
-
-		
 	}
 
 }
