@@ -3,12 +3,16 @@ package Java_Basics;
 public class MethodsFunctions {
 
 	public static void main(String[] args) {
+		
 
+
+		
 //		🟢 Basic Level
 //
 //		1️⃣ Create a Method to Add Two Numbers
 //		👉 Define add(int a, int b) → return sum.
-//
+
+		
 //		2️⃣ Method to Find Square of a Number
 //		👉 square(int n) → returns n * n.
 //
@@ -55,5 +59,4 @@ public class MethodsFunctions {
 //		15️⃣ Recursive Factorial
 //		👉 Implement factorial using recursion.
 	}
-
 }

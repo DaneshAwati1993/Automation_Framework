@@ -418,11 +418,38 @@ System.out.println("************************************");
 			}
 			System.out.println(); 
 		}
+		
 
 //
 //		23️⃣ Armstrong Number
 //		👉 Input a number and check if it’s an Armstrong number (sum of cube of digits = number).
-//
+		
+		int num23=153;
+		int sum23=0;
+		int digits=0;
+		int temp23=num23;
+		while(temp23 !=0)
+		{
+			temp23 /= 10;
+			digits++;
+		}
+		 temp23=num23;
+		while(temp23 !=0)
+		{
+			int digit = temp23 % 10;
+            sum23 += Math.pow(digit , digits);
+            temp23=temp23/10;
+		}
+		System.out.println("Sum of cube of digits : "+sum23);
+		if (sum23==num23)
+		{
+			System.out.println("The Entered number "+num23+" is an Armstrong Number");
+		}
+		else 
+		{
+			System.out.println("The Entered number "+num23+" is Not-Armstrong Number");
+		}
+		
 //		24️⃣ Perfect Number
 //		👉 Check if a number is perfect (sum of divisors = number).
 //
@@ -434,8 +461,17 @@ System.out.println("************************************");
 //		123
 //		1234
 //		12345
-//
-//
+		
+		int rows25=6;
+		for(int i=1; i<=rows25; i++)
+		{
+			for (int j=1; j<=i; j++)
+			{
+				System.out.print(j);
+			}
+			System.out.println(); 
+		}
+		System.out.println("***********************************");
 //		26️⃣ Multiplication Table Grid (nested for)
 //		👉 Print multiplication tables 1–10 in a grid format.
 		int size=40;

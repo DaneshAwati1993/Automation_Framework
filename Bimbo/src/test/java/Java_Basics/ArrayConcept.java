@@ -74,7 +74,23 @@ public class ArrayConcept {
 		
 		System.out.println(obj.length);
 		System.out.println(obj[5]);
-				
+		
+		System.out.println("=========================================================================================");
+		
+		//Normal loop : 
+		
+		for(int i=0; i<obj.length;i++)
+		{
+			System.out.print(obj[i]+" , ");
+		}
+		
+		System.out.println("\n\nEnhanced For loop =========================================================================================");
+		for(Object x: obj)
+		{
+			System.out.print(x + " , ");
+		}
+			
+		// Two dimensional Array : 
 	}
 
 }
