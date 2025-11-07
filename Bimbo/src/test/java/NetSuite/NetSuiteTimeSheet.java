@@ -105,11 +105,12 @@ public class NetSuiteTimeSheet {
 	        }
 	        
 	        
+	       //Date Selection : 
+	        
+	        driver.findElement(By.xpath("//input[@id=\"uif302_input\"]")).sendKeys("10-Nov-2025");
 	        
 	        
 	        
-		
-		
 	}
 
 }

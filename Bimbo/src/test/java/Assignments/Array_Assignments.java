@@ -137,36 +137,22 @@ public class Array_Assignments {
 
 		System.out.println("\nCalculate the sum of Secondary diagonal digits \n_________________________________________");
 		
-		int rows3=Ex3.length;
-		int col3=Ex3[0].length;
-		int trasnEx3[][]=new int[col3][rows3];
-		
 		//Calculation of secondarydiagonalsum Sum : 
 		int secondarydiagonalsum=0;
-		for (int i=0; i<rows3;i++)
+		for (int i=0; i<Ex3.length;i++)
 		{
 			
-			for (int j=0; j<col3;j++)
+			for (int j=0; j<Ex3[i].length;j++)
 			{
-				trasnEx3[j][i]=Ex3[i][j];
-			}
-		}
-		for (int i=0; i<col3;i++)
-		{
-			
-			for (int j=0; j<rows3;j++)
-			{				
-				if (i==j)
+				if (i+j==Ex3.length-1)
 				{
-				System.out.print(trasnEx3[i][j]+ " ");
-				secondarydiagonalsum+=trasnEx3[i][j];
+				System.out.print(Ex3[i][j]+ " ");
+				secondarydiagonalsum+=Ex3[i][j];
 				}
 			}
 		}
 		System.out.println("   Sum of Secondary Diagonal : "+secondarydiagonalsum);	
 
-		
-		
 //		🧩 4. Search an Element in 2D Array
 //		Problem:
 //
@@ -184,8 +170,37 @@ public class Array_Assignments {
 //
 //		Output:
 //		Element found at row 1, column 1
-//
-//
+		
+		System.out.println("\n======================================\nSolution for the Example 4 : \n======================================");
+
+		
+		int Ex4[][]= { {10,20,30} , {40,50,60} , {70,80,90} };
+		
+		int num5=60;
+		boolean found = false;
+		
+		System.out.println("\nSearch an Element in 2D Array  \n_________________________________________");
+		
+		for (int i=0; i<Ex4.length;i++)
+		{
+			
+			for (int j=0; j<Ex4[i].length;j++)
+			{
+				if(num5==Ex4[i][j])
+				{
+				System.out.println("\nElement number "+num5+" found at row : "+i+" column : "+j);
+				found=true;
+				}
+			}
+		}
+		if(!found)
+		{
+			System.out.println("\nEntered number "+num5+" is not a part of the Matrix");
+		}
+		
+		System.out.println("\n======================================\nSolution for the Example 5 : \n======================================");
+
+		
 //		🧩 5. Rotate Matrix by 90 Degrees Clockwise
 //		Problem:
 //
@@ -201,6 +216,35 @@ public class Array_Assignments {
 //		7 4 1
 //		8 5 2
 //		9 6 3
+		
+		int Ex5[][]= { {1,2,3} , {4,5,6} , {7,8,9} };
+		
+		System.out.println("\nPrint the Original Matrix \n_________________________________________");
+		
+		for (int i=0; i<Ex5.length;i++)
+		{
+			
+			for (int j=0; j<Ex5[i].length;j++)
+			{
+				System.out.print(Ex3[i][j]+ " ");
+			}
+			System.out.println();
+		}
+		
+		System.out.println("\nRotate Matrix by 90 Degrees Clockwise \n_________________________________________");
+		
+		for (int j=0; j<Ex5.length;j++)
+		{
+			
+			for (int i=0; i<Ex5[j].length;i++)
+			{
+				{
+				System.out.print(Ex3[Ex5[j].length-1-i][j]+ " ");
+				}
+			}
+			System.out.println();
+		}
+
 	}
 
 }
