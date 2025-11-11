@@ -457,16 +457,161 @@ public class ArraysPracticeSetExamples {
 		}
 		System.out.print("Total SUm of the Main diagonal is : "+sum27Secodiagonal);
 
-		System.out.println("\n======================================\nSolution for the Example 27 : \n======================================");
+		System.out.println("\n======================================\nSolution for the Example 28 : \n======================================");
 //		28️⃣ Transpose of a matrix.
+		int a28[][]= {{1,2,3},{4,5,6},{7,8,9}};
+		System.out.print("Print Original Matrix\n-------------------------\n");
+		for(int i=0;i<a28.length;i++)
+		{
+			{
+				for(int j=0;j<a28[i].length;j++)
+				{
+					System.out.print(a28[i][j]+" ");
+				}
+			}
+			System.out.println();
+		}
+		
+		System.out.print("\nPrint Transpose Matrix\n-------------------------\n");
+		for(int j=0;j<a28.length;j++)
+		{
+			{
+				for(int i=0;i<a28[j].length;i++)
+				{
+					System.out.print(a28[i][j]+" ");
+				}
+			}
+			System.out.println();	
+		}
+		System.out.println("\n======================================\nSolution for the Example 29 : \n======================================");
 //		29️⃣ Multiply two matrices (m×n and n×p).
+		int a291[][]= {{1,2,3},{4,5,6},{7,8,9}};
+		int a292[][]= {{1,2},{3,4},{5,6}};
+		int rowA=a291.length;
+		int colA=a291[0].length;
+		int rowB=a292.length;
+		int colB=a292[0].length;
+		int Result[][]=new int[rowA][colB];
+		
+		if(colA !=rowB)
+		{
+			System.out.println("Multiple of the Matrix is Not Possible....");
+			return;
+		}
+		System.out.println("Printing the Matrix aftre multiplication fo 2 Matrix \n-------------------------------------------------------");
+		for(int i=0;i<rowA;i++)
+		{
+			for(int j=0;j<colB;j++)
+			{
+			for(int k=0;k<colA;k++)
+				{
+				Result[i][j] +=(a291[i][k]*a292[k][j]);
+				}
+			System.out.print(Result[i][j]+" ");
+			}
+			System.out.println();
+		}	
+		
+		System.out.println("\n======================================\nSolution for the Example 30 : \n======================================");
 //		30️⃣ Find the largest element in each row of a 2D array.
-//
+		int a30[][]= {{1,2,9},{4,5,6},{7,8,9}};
+
+		for(int i=0;i<a30.length;i++)
+		{
+			int max = a30[i][0];
+			{
+				for(int j=0;j<a30[i].length;j++)
+				{
+					if (a30[i][j]>max)
+					{
+						max=a30[i][j];
+					}
+				}
+			}
+			System.out.println("Maximum element in an array row : "+i+" is :"+max);
+			
+		}
+		
+		System.out.println("\n======================================\nSolution for the Example 31 : \n======================================");
+		
 //		🔵 Level 4: Searching and Frequency
 //
 //		31️⃣ Implement Binary Search on a sorted array.
+		/*
+		int a31[]= {1,2,3,4,5,6,7,8,9};
+		int num31=7;
+		int low=0;
+		boolean found=false;
+		int max=a31.length-1;
+		if (low<=max)
+		{
+			int mid = (low+max)/2;
+		
+			if (a31[mid] == num31) 
+			{
+		        System.out.println("Number found at position/index: " + mid);
+		        found = true;
+		        break;
+		    }
+		    else if (num31 > a31[mid]) {
+		        low = mid + 1;  // search right side
+		    }
+		    else {
+		        max = mid - 1; // search left side
+		    }
+		}
+
+		if (!found) {
+		    System.out.println("Number not found in array.");
+		}
+
+		*/
+		
+		System.out.println("\n======================================\nSolution for the Example 32 : \n======================================");
 //		32️⃣ Find duplicate elements in an array.
+		int a32[][]= {{1,2,3},{3,4,5},{5,6,7}};
+		for (int i=0;i<a32.length;i++)
+		{
+			for(int j=0;j<a32[i].length;j++)
+			{
+				for(int x=i;x<a32.length;x++)
+				{
+					for(int y=(x==i ? j+1 : 0);y<a32[x].length;y++)
+					{
+						if(a32[i][j]==a32[x][y])
+						{
+							System.out.print(a32[i][j]+" ");
+						}
+					}
+				}
+			}
+		}
+		System.out.println("\n======================================\nSolution for the Example 33 : \n======================================");
+
 //		33️⃣ Remove duplicates and print unique elements only.
+		int a33[][]= {{1,2,3},{3,1,5},{5,6,7}};
+		for (int i=0;i<a33.length;i++)
+		{
+			for(int j=0;j<a33[i].length;j++)
+			{
+				 boolean unique = true;
+				 for (int x = 0; x <= i; x++) 
+				 {
+					 for (int y = 0; y < (x == i ? j : a33[x].length); y++)
+					 {
+						if(a33[i][j]!=a33[x][y])
+						{
+							unique=false;
+							break;
+						}
+					}
+				}
+				if(unique)
+				{
+					System.out.print(a33[i][j]+" ");
+				}
+			}
+		}
 //		34️⃣ Find elements that appear more than once.
 //		35️⃣ Find the frequency of each element in an array.
 //		36️⃣ Find missing number from array of 1 to N.
