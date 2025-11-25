@@ -615,7 +615,7 @@ public class ArraysPracticeSetExamples {
 //		34️⃣ Find elements that appear more than once.
 //		35️⃣ Find the frequency of each element in an array.
 //		36️⃣ Find missing number from array of 1 to N.
-//		37️⃣ Check if two arrays are equal (same elements in same order).
+//		37️⃣ Check if two arrays are equal (same elements in same order).		
 //		38️⃣ Merge two arrays into one larger array.
 //		39️⃣ Find common elements between two arrays.
 //		40️⃣ Find elements present in first array but not in second.
