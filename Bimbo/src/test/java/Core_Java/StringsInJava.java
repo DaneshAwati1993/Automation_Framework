@@ -1,5 +1,7 @@
 package Core_Java;
 
+import java.util.Arrays;
+
 public class StringsInJava {
 
 	public static void main(String[] args) {
@@ -71,6 +73,71 @@ public class StringsInJava {
 		
 		String a15="Selenium Java Selenium Python Selenium ";
 		System.out.println(a15.replace("Selenium", "Testing"));
+		
+		//Substring() : 
+		//Retrieve part of the  Main STring
+		
+		String a16="Danesh";
+		System.out.println(a16.substring(3)); //Retrieve data from the position to end of teh String
+		
+		System.out.println(a16.substring(0, 4));	//Retrieve data from the position to the position mentioned.	
+		
+		
+		//Retrieve part of the  Main STring
+		
+		System.out.println(a16.toUpperCase()); 
+				
+		System.out.println(a16.toLowerCase());	
+		
+		
+		//Split Method :
+		
+		String a17="Danesh Awati Academy";
+		
+		String a18[]=a17.split(" ");
+		System.out.println(Arrays.toString(a18));
+		System.out.println(a18[0]);
+		System.out.println(a18[1]);
+		
+		String a19="daneshawati@123.com";
+		String a20[]=a19.split("@");
+		System.out.println(Arrays.toString(a20));
+		
+		String a21="$1,23,456";
+		String a22[]=a21.split(",");
+		System.out.println(Arrays.toString(a22));
+		System.out.println((a22[2]));
+		
+		
+		String a23="$1,23,456";
+		System.out.println(a23.replace(",", ""));
+		System.out.println(a23.replace(",", "").replace("$", ""));
+		
+		//Reversing the String : 
+		
+		String a24="Danesh";
+		String rev1="";		//Empty String.
+		
+		for(int i=a24.length()-1; i>=0; i--)
+		{
+			rev1=rev1+a24.charAt(i);
+		}
+		System.out.println(rev1);
+		
+		
+		String a25="Java"+(10+20+30+40);
+		System.out.println(a25);
+		String a26=10+20+"Java"+30+40;
+		System.out.println(a26);
+		String a27=10+"20"+30+40+"50"+60+70;
+		System.out.println(a27);
+		String a28=10+20+"Java"+30+40+50+"Good"+60+70+80;
+		System.out.println(a28);
+		String a29="Java"+20+30+"Good";
+		System.out.println(a29);
+		
+
+	
 	}
 
 }
