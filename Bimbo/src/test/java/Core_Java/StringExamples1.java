@@ -147,8 +147,62 @@ public class StringExamples1 {
 			else
 			System.out.println("Given String "+a20+" is Panagram Strings");	
 		 }
-
+		 
 		
+		 System.out.println("\nCount the char occurance in String  : \n------------------------------------------"); 
+		 System.out.println("\nApproach 1  : \n--------------------"); 
+
+		 String a21="Java Strings Example";
+		 a21=a21.toLowerCase();
+		 char a22[]=a21.toCharArray();
+		 int count21=0;
+		 for (int i=0; i<a22.length; i++)
+		 {
+			 if (a22[i]=='a')
+			 {
+				 count21++;
+			 }
+		 }
+		 System.out.println("Char 'a' Occurance in String "+a21+" at : "+count21+" times");
+		 
+		 System.out.println("\nApproach 2  : \n--------------------"); 
+		 String a23="Java Strings Programs Examples java anytime anywhere";
+		 int len23=a23.length();
+		 int len24=a23.replace("a", "").length();
+		 System.out.println("Char 'a' Occurance in String "+a21+" at : "+(len23-len24)+" times");
+		
+		 System.out.println("\nCount the words in String  : \n------------------------------------------"); 
+		 
+		 String a25="Java Program to count the words";
+		 int count25=1;
+		 for (int i=0;i<a25.length();i++)
+		 {
+			 if (a25.charAt(i)==' ' && a25.charAt(i+1)!=' ')
+			 {
+				 count25++;
+			 }
+		 }
+		 System.out.println(count25);
+		 
+		 
+		 System.out.println("\nRevers each charcter within the words in String  : \n------------------------------------------"); 
+
+		 String a26="Danesh Awati Academy"; //hsenaD itawA ymedacA
+		 
+		 String words[]=a26.split(" ");
+		 
+		 String reverseString=" ";
+		 for(String w:words)
+		 {
+			 String reverseword=" ";
+			 for (int i=w.length()-1; i>=0;i--)
+			 {
+				 reverseword=reverseword+w.charAt(i);
+			 }
+			 reverseString=reverseString+reverseword+" ";
+		 }
+		 System.out.println(reverseString);
+		 
 	}
 
 }
