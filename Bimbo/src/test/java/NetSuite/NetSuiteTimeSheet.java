@@ -65,7 +65,32 @@ public class NetSuiteTimeSheet {
 	        	System.out.println("✅ Authentication page detected — proceeding with entry steps...");
 	        	
 	            // Continue steps for this page
-	            driver.findElement(By.xpath("//*[@id=\"null\"]")).sendKeys("danu");  //
+	        	//Security Question answer------------
+	        	String q1 = driver.findElement(By.xpath("//td[normalize-space()='Question:']/following-sibling::td"))
+	                    .getText();
+
+	   WebElement ans1 = driver.findElement(By.xpath("//td[normalize-space()='Answer:']/following-sibling::td//input"));
+
+	   switch (q1) {
+
+	       case "What was your childhood nickname?":
+	           ans1.sendKeys("daneshnickname");
+	           break;
+
+	       case "What is your oldest sibling's middle name?":
+	           ans1.sendKeys("daneshsibling");
+	           break;
+
+	       case "In what city or town was your first job?":
+	           ans1.sendKeys("daneshcity");
+	           break;
+
+	       default:
+	           System.out.println("Unknown question → " + q1);
+	   }
+
+	        	
+	            //driver.findElement(By.xpath("//*[@id=\"null\"]")).sendKeys("danu");  //
 	            driver.findElement(By.xpath("/html/body/div[2]/div[1]/form/table/tbody/tr[4]/td/input")).click();
 	        } else {
 	            System.out.println("ℹ️ Different page detected — skipping authentication steps.");
