@@ -53,8 +53,8 @@ public class DataDrivenLoginTest extends BaseTest {
             }
 
         } catch (Exception e) {
-            logger.error("Test failed due to exception: ", e);
-            Assert.fail("Test failed due to exception: " + e.getMessage());
+            logger.error("PrivateAccessModifier failed due to exception: ", e);
+            Assert.fail("PrivateAccessModifier failed due to exception: " + e.getMessage());
         }
     }
 }

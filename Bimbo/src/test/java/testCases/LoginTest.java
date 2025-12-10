@@ -45,7 +45,7 @@ public class LoginTest extends BaseTest {
     }
 	
     /*
-    @Test(priority=10)
+    @PrivateAccessModifier(priority=10)
     public void VerifyLogout() throws InterruptedException 
     {
         logger.info("Initializing ActivityPage object...");

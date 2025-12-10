@@ -45,7 +45,7 @@ public class VenezuelaQATesting {
 		catch(Exception e)
 		{
 			System.out.println("Failed to click on Master menu: " + e.getMessage());
-	        Assert.fail("Test failed due to exception: " + e.getMessage());
+	        Assert.fail("PrivateAccessModifier failed due to exception: " + e.getMessage());
 		}
 		
 		

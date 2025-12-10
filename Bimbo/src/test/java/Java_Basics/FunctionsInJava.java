@@ -17,7 +17,7 @@ public class FunctionsInJava {
 	
 	public void test()
 	{
-		System.out.println("Test Method");
+		System.out.println("PrivateAccessModifier Method");
 	}
 	
 	public int pqr()
